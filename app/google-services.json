@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "718771154718",
+    "firebase_url": "https://transporte-3fdff.firebaseio.com",
+    "project_id": "transporte-3fdff",
+    "storage_bucket": "transporte-3fdff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718771154718:android:65e30abbc6bfd96896a30f",
+        "android_client_info": {
+          "package_name": "com.merodev.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718771154718-ramotkf4koftebiam5t6h326mihorp1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALXmLgBbb1U6mRXGCtK5sVJvQ5DaYplAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718771154718-ramotkf4koftebiam5t6h326mihorp1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
